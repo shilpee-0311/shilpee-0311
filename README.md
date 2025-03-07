@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+ 💫About me 
 
 
 - 🌱 I’m currently learning DSA and Java 
