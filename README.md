@@ -12,10 +12,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
-<p><img src="https://img.shields.io/badge/-Javs-05122A?style=flat&amp;logo=Java" alt="Java">&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
+<img src="https://img.shields.io/badge/-Springboot-05122A?style=flat&amp;logo=Springboot&amp;logoColor=A8B9CC" alt="Springboot">&nbsp;
 <img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">&nbsp;
 <img src="https://img.shields.io/badge/-R-05122A?style=flat&amp;logo=R&amp;logoColor=276DC3" alt="R (Statistics)"><br>
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp;
@@ -52,8 +50,7 @@
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
-<p>Last Edited on: 11/12/2020</p> 
+
 
 
 
