@@ -8,6 +8,7 @@
 - 😄 Pronouns: ..She/her.
 - ⚡ Fun fact: I love watching Anime
 -->
+  <Br>
    💻 Tech Stack:
 
 <p><img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java" alt="Java">&nbsp;
