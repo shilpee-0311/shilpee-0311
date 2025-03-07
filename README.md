@@ -8,6 +8,7 @@
 - 😄 Pronouns: ..She/her.
 - ⚡ Fun fact: I love watching Anime
 -->
+   💻 Tech Stack:
 
 <p><img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java" alt="Java">&nbsp;
 <img src="https://img.shields.io/badge/-Springboot-05122A?style=flat&amp;logo=springboot" alt="Springboot">&nbsp;
@@ -25,13 +26,8 @@
 <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&amp;logo=eclipse-ide&amp;logoColor=2C2255" alt="Eclipse"><br>
 <img src="https://img.shields.io/badge/-Intelliji-05122A?style=flat&amp;logo=intelliji" alt="Intelliji>&nbsp;
 </p>
-<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/shilpee-0311/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shilpee-0311&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  shilpee-0311<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=S&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
-</a>
-</p>
+
+
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 
 <hr>
