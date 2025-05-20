@@ -1,5 +1,4 @@
- 💫About me 
- 
+
 
 # 💫 About Me:
 I’m currently learning DSA and Java<br><br>🤔 I’m looking for Fulltime Opportunities<br><br>💬 Ask me about Algorithms,DSA and Competitive Programming<br><br>😄 Pronouns: ..She/her.<br><br>⚡ Fun fact: I love watching Anime -->
