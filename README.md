@@ -1,39 +1,24 @@
  💫About me 
  
 
-
-- 🌱 I’m currently learning DSA and Java 
-- 🤔 I’m looking for Fulltime Opportunities
-- 💬 Ask me about Algorithms,DSA and Competitive Programming
-- 😄 Pronouns: ..She/her.
-- ⚡ Fun fact: I love watching Anime
--->
-
-  
-  <Br>
-💻 Tech Stack:
+# 💫 About Me:
+I’m currently learning DSA and Java<br><br>🤔 I’m looking for Fulltime Opportunities<br><br>💬 Ask me about Algorithms,DSA and Competitive Programming<br><br>😄 Pronouns: ..She/her.<br><br>⚡ Fun fact: I love watching Anime -->
 
 
-<p><img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java" alt="Java">&nbsp;
-<img src="https://img.shields.io/badge/-Springboot-05122A?style=flat&amp;logo=springboot" alt="Springboot">&nbsp;
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp;
- <img src="https://img.shields.io/badge/-DSA-05122A?style=flat&amp;logo=DSA" alt="DSA">&nbsp;
-<br>
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
- <img src="https://img.shields.io/badge/-Hibernate-05122A?style=flat&amp;logo=hibernate" alt="Hibernate">&nbsp;
- <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&amp;logo=postman" alt="Postman">&nbsp;
-<br>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
-<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&amp;logo=eclipse-ide&amp;logoColor=2C2255" alt="Eclipse"><br>
-<img src="https://img.shields.io/badge/-Intelliji-05122A?style=flat&amp;logo=intelliji" alt="Intelliji>&nbsp;
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shilpee-srivastava-69634b1b1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shilpeebackend@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shilpee-0311&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shilpee-0311&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<hr>
-<p>Credits: <a href="https://github.com/shilpee-0311">Shilpee Srivastava</a></p>
+---
+[![](https://visitcount.itsvg.in/api?id=shilpee-0311&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
