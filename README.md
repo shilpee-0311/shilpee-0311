@@ -2,6 +2,7 @@
 I’m currently learning DSA and Java<br><br>🤔 I’m looking for Fulltime Opportunities<br><br>💬 Ask me about Algorithms,DSA and Competitive Programming<br><br>😄 Pronouns: ..She/her.<br><br>⚡ Fun fact: I love watching Anime -->
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shilpee-srivastava-69634b1b1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shilpeebackend@gmail.com) 
 
