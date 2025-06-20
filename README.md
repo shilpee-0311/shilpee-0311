@@ -1,7 +1,5 @@
 💫 Welcome to My GitHub!
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Expert;Anime+Lover;Open+to+Opportunities!&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=08FDD8&background=00000000&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Shilpee+%F0%9F%91%8B;Java+Backend+Developer+%E2%9A%99%EF%B8%8F;Anime+Lover+%F0%9F%8E%A5+Naruto+%E2%9D%A4+JJK;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Open+to+Full-Time+Opportunities">
@@ -59,6 +57,17 @@ A REST API for reviewing movies by genre with real-time average rating update.
 
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=tokyonight&row=2&margin-w=8&no-bg=true"/> </p>
+
+
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shilpee-0311&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shilpee-0311&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Let’s Connect
