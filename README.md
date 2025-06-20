@@ -53,6 +53,10 @@ A REST API for reviewing movies by genre with real-time average rating update.
 A backend service to log and analyze CP progress via APIs.
 
 
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=tokyonight&row=2&margin-w=8&no-bg=true"/> </p>
+
+
 ## 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shilpee-srivastava-69634b1b1)
