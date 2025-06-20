@@ -1,82 +1,62 @@
-# 💫 About Me
+💫 Welcome to My GitHub!
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&background=58A6FF00&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Shilpee+Srivastava!;Java+Backend+Developer+%E2%9A%99%EF%B8%8F;Anime+Fan+%F0%9F%8E%A5;Open+to+Full-Time+Roles!"> </p>
+👩‍💻 About Me
+🧠 Currently mastering DSA, Spring Boot, and System Design
 
-🎓 I'm a Java Backend Developer in the making — currently diving deep into **DSA**, **Spring Boot**, and **system design**.  
-🚀 Passionate about writing clean, scalable backend systems and solving complex algorithmic problems.  
-🎯 Seeking **full-time opportunities** to contribute as a Java Developer / Backend Engineer.  
-🌸 Pronouns: *She/Her*  
-🍿 Fun fact: I'm a huge Anime enthusiast — talk to me about Naruto, AOT, or Jujutsu Kaisen!
+👩‍💼 Actively seeking Java Backend Developer roles (full-time)
 
----
+📌 Believer in writing clean, scalable, and testable code
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shilpee-srivastava-69634b1b1)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shilpeebackend@gmail.com)
+✨ Fun Fact: I binge anime and debug bugs with the same intensity ⚔️
 
----
+📬 Let's Connect
 
-## 💻 Tech Stack
 
-**Languages & Frameworks:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**Databases & Messaging:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
+🧰 Tech Stack
+Languages & Frameworks
 
-**Tools & Platforms:**  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shilpee-0311&theme=dark&hide_border=true&show_icons=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpee-0311&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&theme=dark&layout=compact&hide_border=true" width="48%"/>
-</p>
 
----
+Databases & Messaging
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=radical&no-bg=true&margin-w=8"/>
-</p>
 
----
 
-## 📌 Featured Projects
 
-- 🔥 [Crash Course Management System](https://github.com/shilpee-0311/crash-course-api) – Spring Boot backend for managing short-term courses with student enrollments and mentor assignments
+Tools & Platforms
 
-- # 🚀 Crash Course API
-![Java CI](https://github.com/shilpee-0311/crash-course-api/actions/workflows/maven.yml/badge.svg)
 
-- 🎬 [Movie Review System](https://github.com/shilpee-0311/movie-review-backend) – RESTful API backend for rating and reviewing movies, including genre-based sorting and live average rating calculation
 
----
 
-## ✨ Fun Projects In Progress
-- 🧠 Building a Java-based personal productivity tracker  
-- 📚 Blogging backend using Spring Boot + MySQL  
-- ⚔️ Competitive programming tracker API
 
----
 
-[![](https://visitcount.itsvg.in/api?id=shilpee-0311&icon=5&color=6)](https://visitcount.itsvg.in)
+🌟 Featured Projects
 
----
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+📈 GitHub Stats & Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shilpee-0311&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=shilpee-0311&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=tokyonight&row=2&margin-w=8&no-bg=true"/> </p>
+🌐 GitHub Actions & Activity Graph
 
----
 
+
+🧠 Current Learning & Challenges
+Advanced Spring Boot Features (Security, AOP, Microservices)
+
+Real-world backend architecture + system design
+
+Solving daily problems on LeetCode & GFG
+
+🎯 Career Goals
+🔍 Land a backend role where I can:
+✔ Solve real-world problems using Java
+✔ Collaborate on meaningful backend projects
+✔ Grow into a backend architect in 3–5 years
+
+📌 My Coding Philosophy
+"Write code that others can read. Build systems your future self can scale
 
