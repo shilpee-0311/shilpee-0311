@@ -1,3 +1,7 @@
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=E1EFFF&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+Shilpee+Srivastava!;Java+Backend+Developer+%F0%9F%92%BB;Anime-Lover+Who+Codes+with+Chakra+%E2%9C%A8;Spring+Boot+%7C+DSA+%7C+System+Design;Let%E2%80%99s+Build+Scalable+Backends+Together+%F0%9F%9A%80" alt="Typing SVG" /> </p>
+
+
+
 💫 Welcome to My GitHub!
 
 
