@@ -51,14 +51,6 @@ Spring Boot backend for managing crash courses, enrollments, and mentors.
 A REST API for reviewing movies by genre with real-time average rating update.
 
 
-📈 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shilpee-0311&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=shilpee-0311&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p>
-
-
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=tokyonight&row=2&margin-w=8&no-bg=true"/> </p>
-
-
 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
