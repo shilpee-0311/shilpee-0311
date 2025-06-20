@@ -1,4 +1,9 @@
 💫 Welcome to My GitHub!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=08FDD8&background=00000000&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Shilpee+%F0%9F%91%8B;Java+Backend+Developer+%E2%9A%99%EF%B8%8F;Anime+Lover+%F0%9F%8E%A5+Naruto+%E2%9D%A4+JJK;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Open+to+Full-Time+Opportunities">
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&background=0D111700&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+I'm+Shilpee+Srivastava!;Java+Backend+Developer+%E2%9A%99%EF%B8%8F;Anime+Fan+%F0%9F%8E%A5;Open+to+Full-Time+Roles!">
 </p>
