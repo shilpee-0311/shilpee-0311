@@ -49,8 +49,9 @@ Spring Boot backend for managing crash courses, enrollments, and mentors.
 🔹 **[Movie Review Backend](https://github.com/shilpee-0311/movie-review-backend)**  
 A REST API for reviewing movies by genre with real-time average rating update.
 
-🔹 **Competitive Coding Tracker (WIP)**  
-A backend service to log and analyze CP progress via APIs.
+
+📈 GitHub Stats & Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shilpee-0311&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=shilpee-0311&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p>
 
 
 🏆 GitHub Trophies
