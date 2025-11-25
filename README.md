@@ -1,4 +1,4 @@
-Tools
+
 Shilpee Srivastava — Data Analyst | BI Developer | Instructor
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shilpee+Srivastava+👋;Data+Analyst+%7C+BI+Developer;Power+BI+%7C+Excel+%7C+SQL+%7C+Python;Turning+Raw+Data+into+Smart+Decisions;Welcome+to+My+Technical+Profile+🚀" /> </p>
 🧑‍💻 About Me
