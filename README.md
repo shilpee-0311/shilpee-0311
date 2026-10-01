@@ -1,149 +1,123 @@
-<div align="center">
+# 👋 Hi there
 
-# SHILPEE SRIVASTAVA
+I'm **Shilpee Srivastava**, a **Data Analyst, Junior Data Scientist and
+Technical Trainer** with a background in Computer Applications and practical
+experience in Data Analytics, Business Intelligence and Machine Learning.
 
-### Data Analyst | Junior Data Scientist | Technical Trainer
+I work with data to identify patterns, build dashboards, develop analytical
+solutions and transform raw information into meaningful insights.
 
-**Python · SQL · Power BI · Excel · Machine Learning · Predictive Analytics**
-
-<br>
-
-<a href="https://github.com/shilpee-0311">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/shilpee-srivastava0311">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mailshilpeesrivastava@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+Currently, I work as a **Technical Trainer & Academic Coordinator at
+Mindsprout Career Hub / Aptech Learning Alambagh**, where I train students in
+programming, data analytics and practical technology projects.
 
 ---
 
-## Professional Summary
+# 🚀 Expertise
 
-MCA graduate and Data Analytics professional with hands-on experience in
-**Python, SQL, Power BI, Excel, data preprocessing, exploratory data analysis
-and machine learning**.
-
-Currently working as a **Technical Trainer & Academic Coordinator**, where I
-work with students on practical programming, analytics and technology projects.
-
-My interests include **Predictive Analytics, Machine Learning, NLP, Business
-Intelligence and AI-driven applications**.
-
-I focus on building practical solutions that transform **raw data into
-meaningful insights and actionable information**.
-
----
-
-## Core Skills
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+I specialize in working across **Data Analytics, Business Intelligence,
+Machine Learning and AI applications**.
 
 ### Data Analytics
 
-- Python
-- SQL / MySQL
-- Microsoft Excel
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
-- Exploratory Data Analysis
 - Data Cleaning & Preprocessing
-- ETL & Reporting
+- Exploratory Data Analysis
 - Data Visualization
-- KPI Analysis
+- SQL Data Analysis
+- Excel Analytics
+- KPI Development
+- ETL & Reporting
 
-</td>
+### Business Intelligence
 
-<td width="50%" valign="top">
+- Power BI Dashboards
+- Interactive Reports
+- Data Modeling
+- KPI & Trend Analysis
+- MIS Reporting
+- Business Insights
 
 ### Data Science & AI
 
-- Scikit-learn
 - Machine Learning
 - Predictive Analytics
 - Natural Language Processing
 - TF-IDF
 - Cosine Similarity
-- AI Applications
-- Model Evaluation
-- Business Intelligence
 - Text Analysis
-
-</td>
-
-</tr>
-</table>
+- AI-powered Applications
 
 ---
 
-## Technology Stack
+# 💻 Tech Stack
 
-<p align="center">
+### Programming & Data
 
-<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,jupyter,git,github,streamlit&perline=9" />
-
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-<p align="center">
+### Analytics & Visualization
 
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Analytics-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+### Machine Learning & AI
 
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-6A5ACD?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2F80ED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Predictive%20Analytics-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square"/>
+<img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cosine%20Similarity-00A67E?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-F7931E?style=flat-square"/>
+### Tools & Platforms
 
-<img src="https://img.shields.io/badge/Predictive%20Analytics-Data%20Science-0078D4?style=flat-square"/>
-
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
 
-# Selected Projects
-
-## AI Resume Intelligence Platform
-
-**Python · NLP · Scikit-learn · Streamlit**
-
-An AI-powered application designed to analyze resumes against job descriptions
-and identify relevant skills and potential skill gaps.
-
-### Key Work
-
-- PDF resume extraction using `pdfplumber`
-- Text preprocessing and normalization
-- TF-IDF feature extraction
-- Cosine similarity-based matching
-- Resume-to-job comparison
-- Skill-gap identification
-- Interactive Streamlit interface
-- NLP and machine learning implementation
-
-### Workflow
+# 📊 Data Workflow
 
 ```text
-Resume
-   ↓
-PDF Text Extraction
-   ↓
-Text Preprocessing
-   ↓
-TF-IDF
-   ↓
-Cosine Similarity
-   ↓
-Resume–Job Matching
-   ↓
-Skill Gap Analysis
+                    DATA
+                      │
+                      ▼
+             Data Collection
+                      │
+                      ▼
+              Data Cleaning
+                      │
+                      ▼
+           Data Preprocessing
+                      │
+                      ▼
+          Exploratory Analysis
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+       Visualization      Machine Learning
+             │                 │
+             ▼                 ▼
+        Dashboards       Predictive Models
+             │                 │
+             └────────┬────────┘
+                      ▼
+                 INSIGHTS
+                      │
+                      ▼
+                 DECISIONS
