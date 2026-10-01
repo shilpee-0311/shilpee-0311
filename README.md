@@ -1,193 +1,231 @@
 # 👋 Hi, I'm Shilpee Srivastava
 
-<h3 align="center">
-Data Analyst | Junior Data Scientist | Technical Trainer
-</h3>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:7B2CBF&height=220&section=header&text=Shilpee%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
+</p>
+
+<h2 align="center">
+  Data Analyst • Junior Data Scientist • Technical Trainer
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shilpee+Srivastava+👋;Data+Analyst+%7C+Junior+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+NLP+%7C+Predictive+Analytics;Turning+Data+into+Meaningful+Insights+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+NLP+%7C+AI;Predictive+Analytics+%7C+Business+Intelligence;Turning+Data+into+Meaningful+Insights" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shilpee-0311">
-    <img src="https://img.shields.io/badge/GitHub-shilpee--0311-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/shilpee-srivastava0311">
-    <img src="https://img.shields.io/badge/LinkedIn-Shilpee%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=shilpee-0311&label=Profile%20Views&color=00F5D4&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/shilpee-0311?style=for-the-badge&color=7B2CBF"/>
+  <img src="https://img.shields.io/github/stars/shilpee-0311?style=for-the-badge&color=F7B801"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧊 About Me
 
-🎓 **MCA Graduate** with professional experience in Data Analytics and Technical Training.
+<table>
+<tr>
+<td width="55%">
 
-📊 Hands-on experience with **Python, SQL, Power BI, Excel, Pandas, NumPy and Scikit-learn**.
+### 👩‍💻 Data & AI Professional
 
-🔍 Interested in **Predictive Analytics, Machine Learning, Data Science and AI**.
+🎓 **MCA Graduate**
 
-🧹 Experienced in **Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA)** and Data Visualization.
+📊 **Data Analyst & Junior Data Scientist**
 
-🤖 Worked on **NLP, TF-IDF, Cosine Similarity and AI-powered applications**.
+👩‍🏫 **Technical Trainer**
 
-⚙️ Experienced in developing **ETL pipelines, dashboards and automated reporting workflows**.
+🔍 Interested in **Predictive Analytics & Machine Learning**
 
-👩‍🏫 Currently working as a **Technical Trainer & Academic Coordinator** at Mindsprout Career Hub / Aptech Learning Alambagh.
+🤖 Experience with **NLP & AI-powered applications**
 
-🚀 Passionate about transforming raw data into meaningful insights and building practical analytics solutions.
+⚙️ Experienced in **ETL, EDA & Dashboard Development**
+
+📈 Passionate about converting **raw data → insights → decisions**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,powerbi,excel,git,github,jupyter,streamlit&perline=4" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Technical Skills
+# 🧠 My Data & AI Stack
 
-## 🐍 Programming & Data Science
+<p align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="60"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="60"/>
+<img src="https://skillicons.dev/icons?i=sklearn" height="60"/>
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=jupyter" height="60"/>
+<img src="https://skillicons.dev/icons?i=streamlit" height="60"/>
+
 </p>
 
-## 📊 Data Analytics & Visualization
+<p align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-Data%20Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Predictive%20Analytics-ML-00A67E?style=for-the-badge"/>
 
-## 🤖 AI & NLP
-
-<p>
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TF--IDF-Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cosine%20Similarity-ML-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
-</p>
-
-## 🧰 Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Resume Intelligence Platform
+<table>
+<tr>
 
-**AI-Powered HR Tech Application**
+<td width="50%" valign="top">
 
-An AI-powered application designed to analyze resumes and compare them with job descriptions.
+<h3 align="center">🤖 AI Resume Intelligence</h3>
 
-### 🔹 Key Features
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Powered-7B2CBF?style=for-the-badge"/>
+</p>
 
-- 📄 PDF resume parsing using `pdfplumber`
-- 🧹 Automated text preprocessing
-- 🔍 Resume-job matching
-- 🧠 TF-IDF based text representation
-- 📐 Cosine Similarity for matching
-- 🎯 Skill-gap identification
-- ⚡ Interactive Streamlit application
-- 🤖 NLP & Machine Learning based analysis
+Resume intelligence platform using:
 
-### 🛠️ Tech Stack
+- Python
+- NLP
+- TF-IDF
+- Cosine Similarity
+- Scikit-learn
+- Streamlit
 
-`Python` `Pandas` `Scikit-learn` `NLP` `TF-IDF` `Cosine Similarity` `Streamlit`
+**Core Features**
 
-🔗 **GitHub:**  
-https://github.com/shilpee-0311/AI-Powered-Resume-Intelligence-Platform
+> Resume Parsing → Text Processing → Matching → Skill Gap Analysis
 
----
+<p align="center">
+<a href="https://github.com/shilpee-0311/AI-Powered-Resume-Intelligence-Platform">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-## 📊 Smart Health & Activity Analytics Dashboard
+</td>
 
-**Data Analytics & Visualization Project**
+<td width="50%" valign="top">
 
-A data analytics project focused on transforming health and activity data into meaningful dashboards and insights.
+<h3 align="center">📊 Smart Health Analytics</h3>
 
-### 🔹 Key Features
+<p align="center">
+<img src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-- ⚙️ ETL pipeline development using Python & Pandas
-- 🧹 Data cleaning and preprocessing
-- 📊 Interactive Power BI dashboards
-- 📈 KPI and trend analysis
-- 🔄 Automated reporting workflows
-- 🔍 Analysis of health and activity patterns
+Analytics platform involving:
 
-### 🛠️ Tech Stack
+- Python
+- Pandas
+- Excel
+- Power BI
+- ETL
+- KPI Analysis
 
-`Python` `Pandas` `Power BI` `Excel`
+**Data Flow**
 
-🔗 **GitHub:**  
-https://github.com/shilpee-0311/Smart-Health-Activity-Analytics-Dashboard
+> Raw Data → Cleaning → ETL → Analysis → Dashboard → Insights
 
----
+<p align="center">
+<a href="https://github.com/shilpee-0311/Smart-Health-Activity-Analytics-Dashboard">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-# 💼 Professional Experience
+</td>
 
-### 👩‍🏫 Technical Trainer & Academic Coordinator
-
-**Mindsprout Career Hub / Aptech Learning Alambagh**  
-📍 Lucknow, India | **Jul 2025 – Present**
-
-- Delivered training in **Python, SQL, Excel, Power BI and Data Analytics**
-- Designed real-world data analytics projects
-- Performed data cleaning, preprocessing and EDA
-- Created dashboards and automated MIS reports
-- Worked with structured datasets for analytics and ML concepts
-- Developed institutional websites
-- Collaborated on digital initiatives
-
----
-
-# 🎓 Education
-
-### Master of Computer Applications — MCA
-**Shri Ramswaroop Memorial University**  
-2022 – 2024 | CGPA: **7.4**
-
-### Bachelor of Education — B.Ed
-**N.B.S College of Management**  
-2020 – 2022 | CGPA: **8.0**
-
-### Bachelor of Science — B.Sc
-**Kamla Nehru Institute (KNIPSS)**  
-2017 – 2020 | CGPA: **6.0**
-
----
-
-# 🏆 Achievement
-
-🏅 Received a formal **Appreciation Letter from the Director of Mindsprout Career Hub** after successfully completing one year with the organization, recognizing professionalism, dedication, teamwork and contributions to student support and institutional initiatives.
+</tr>
+</table>
 
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shilpee-0311&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpee-0311&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shilpee-0311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2CBF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpee-0311&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=7B2CBF"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Profile Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=algolia&no-frame=true&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shilpee-0311&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</p>
+
+---
+
+# 💼 Professional Experience
+
+<table>
+<tr>
+<td>
+
+### 👩‍🏫 Technical Trainer & Academic Coordinator
+
+**Mindsprout Career Hub / Aptech Learning Alambagh**
+
+`Jul 2025 – Present`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**Key Responsibilities**
+
+🔹 Python & SQL Training  
+🔹 Excel & Power BI Training  
+🔹 Data Analytics Projects  
+🔹 Data Cleaning & EDA  
+🔹 Dashboard Development  
+🔹 MIS Reporting  
+🔹 ML Concepts  
+🔹 Student Project Mentoring  
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-Data%20Analytics-00F5D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/03-SQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/04-Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/05-Machine%20Learning-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/06-NLP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/07-Predictive%20Analytics-00A67E?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -197,30 +235,19 @@ https://github.com/shilpee-0311/Smart-Health-Activity-Analytics-Dashboard
 <p align="center">
 
 <a href="mailto:mailshilpeesrivastava@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/shilpee-srivastava0311">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shilpee-0311">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
----
-
-# 🎯 Current Focus
-
-```text
-📊 Data Analytics
-🐍 Python
-🗄️ SQL & MySQL
-📈 Power BI
-🤖 Machine Learning
-🧠 NLP
-🔮 Predictive Analytics
-⚙️ ETL & Data Processing
-📊 Business Intelligence
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:00F5D4&height=120&section=footer"/>
+</p>
