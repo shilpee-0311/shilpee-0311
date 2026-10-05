@@ -23,9 +23,8 @@
 
 ## 📈 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=shilpee-0311&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=shilpee-0311&show_icons=true&custom_title=Shilpee%27s%20GitHub%20Stats&bg_color=0d0e16&title_color=22d3ee&icon_color=a78bfa&text_color=e5e7eb&border_color=3b3f5c&border_radius=20&count_private=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpee-0311&layout=compact&langs_count=6&custom_title=Most%20Used%20Languages&bg_color=0d0e16&title_color=22d3ee&text_color=e5e7eb&border_color=3b3f5c&border_radius=20" height="170" alt="Top languages"/>
 ## 🌆 My Contribution City
 
 <img src="profile-3d-contrib/profile-night-view.svg?v=3" alt="3D contribution city" width="100%"/>
